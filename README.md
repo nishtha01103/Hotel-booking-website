@@ -1,4 +1,4 @@
-# CODSOFT_Task1
+
 Hotel Booking Website:
 As part of my internship task at CodSoft, I developed a fully functional hotel booking website using modern web development technologies. This project was an amazing opportunity to apply my skills and create a user-friendly platform for booking hotels.
 Link: https://nishtha01103.github.io/CODSOFT_Task1/
